@@ -1,0 +1,1 @@
+{"hidden_dim": 177, "n_steps": 23, "dropout_rate": 0.3935028943163554, "lr": 0.0003927660750626944, "batch_size": 32, "n_hidden_layers": 4, "lr_scheduler": "None", "activation": "RELU"}

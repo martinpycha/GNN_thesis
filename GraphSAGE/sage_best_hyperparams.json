@@ -1,0 +1,1 @@
+{"hidden_dim": 103, "dropout_rate": 0.1945178681889085, "aggregator_type": "pool", "lr": 0.002066595185419995, "batch_size": 128, "n_hidden_layers": 1, "lr_scheduler": "ExponentialLR", "activation": "RELU", "gamma_exp": 0.9872745703157462}

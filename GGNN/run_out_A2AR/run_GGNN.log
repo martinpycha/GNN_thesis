@@ -1,0 +1,4 @@
+Input Notebook:  GGNN_model.ipynb
+Output Notebook: run_out_A2AR/GGNN_out10_another.ipynb
+Executing:   0%|          | 0/2 [00:00<?, ?cell/s]Executing notebook with kernel: python3
+Executing:  50%|█████     | 1/2 [34:05<34:05, 2045.32s/cell]Executing: 100%|██████████| 2/2 [34:08<00:00, 1024.14s/cell]

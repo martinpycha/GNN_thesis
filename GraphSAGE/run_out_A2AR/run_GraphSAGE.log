@@ -1,0 +1,4 @@
+Input Notebook:  GraphSAGE_model.ipynb
+Output Notebook: run_out_A2AR/GraphSAGE_tune3_out1.ipynb
+Executing:   0%|          | 0/2 [00:00<?, ?cell/s]Executing notebook with kernel: python3
+Executing:  50%|█████     | 1/2 [24:44<24:44, 1484.83s/cell]Executing: 100%|██████████| 2/2 [24:46<00:00, 743.05s/cell] 
