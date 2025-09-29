@@ -1,0 +1,6 @@
+Input Notebook:  GraphSAGE_model.ipynb
+Output Notebook: run_out_hERG/GraphSAGE_out2.ipynb
+Passed unknown parameter: run_number
+Input notebook does not contain a cell with tag 'parameters'
+Executing:   0%|          | 0/3 [00:00<?, ?cell/s]Executing notebook with kernel: python3
+Executing:  33%|███▎      | 1/3 [00:01<00:02,  1.24s/cell]Executing:  67%|██████▋   | 2/3 [21:22<12:34, 754.28s/cell]Executing: 100%|██████████| 3/3 [21:24<00:00, 428.32s/cell]
